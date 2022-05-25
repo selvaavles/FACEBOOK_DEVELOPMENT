@@ -6,3 +6,5 @@ audio call function
 adding the profile picture fucntion
 
 adding the status function
+
+Adding like and comment functionality

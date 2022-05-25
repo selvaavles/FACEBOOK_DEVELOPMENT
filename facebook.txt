@@ -2,3 +2,5 @@
 chatting function
 voice call function 
 audio call function 
+
+adding the profile picture fucntion

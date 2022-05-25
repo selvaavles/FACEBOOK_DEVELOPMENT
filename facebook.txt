@@ -4,3 +4,5 @@ voice call function
 audio call function 
 
 adding the profile picture fucntion
+
+adding the status function
